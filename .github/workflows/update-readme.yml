@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"      # setiap 6 jam
-  workflow_dispatch:            # tombol jalankan manual
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
     paths: ["scripts/update_readme.py"]
