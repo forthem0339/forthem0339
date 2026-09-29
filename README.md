@@ -11,12 +11,10 @@
 
 ## About Me
 
-🎨 &nbsp;2D illustrator & video editor<br>
-🇯🇵 &nbsp;Japanese Literature student<br>
-🔭 &nbsp;Building a **Japanese learning app / game**<br>
-👯 &nbsp;Open to collaborate on **data analyst** progress<br>
-🤝 &nbsp;Looking for help with **2D illustration**<br>
-💬 &nbsp;Ask me about **Clip Studio Paint**
+&nbsp;2D illustrator & video editor<br>
+&nbsp;Japanese Literature student<br>
+&nbsp;focusing on **data analyst** progress<br>
+&nbsp;good at **2D illustration**<br>
 
 <br>
 
