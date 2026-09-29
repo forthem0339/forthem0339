@@ -36,9 +36,9 @@
 
 <table>
 <tr>
-<td align="center"><sub><b>INDONESIAN</b></sub><h2>🇮🇩</h2><code>▰▰▰▰▰</code><br><sub>LEVEL - NATIVE</sub></td>
-<td align="center"><sub><b>JAPANESE</b></sub><h2>🇯🇵</h2><code>▰▰▱▱▱</code><br><sub>LEVEL - INTERMEDIATE</sub></td>
-<td align="center"><sub><b>ENGLISH</b></sub><h2>🇬🇧</h2><code>▰▰▰▱▱</code><br><sub>LEVEL - INTERMEDIATE</sub></td>
+<td align="center"><sub><b>INDONESIAN</b></sub><br><img src="https://flagcdn.com/w40/id.png" width="34" alt="ID"><br><code>▰▰▰▰▰</code><br><sub>LEVEL - NATIVE</sub></td>
+<td align="center"><sub><b>JAPANESE</b></sub><br><img src="https://flagcdn.com/w40/jp.png" width="34" alt="JP"><br><code>▰▰▱▱▱</code><br><sub>LEVEL - INTERMEDIATE</sub></td>
+<td align="center"><sub><b>ENGLISH</b></sub><br><img src="https://flagcdn.com/w40/gb.png" width="34" alt="GB"><br><code>▰▰▰▱▱</code><br><sub>LEVEL - INTERMEDIATE</sub></td>
 </tr>
 </table>
 
@@ -48,21 +48,19 @@
 
 <table>
 <tr>
-<td align="center">DATA ANALYST<br><img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="60" height="2"></td>
-<td align="center">IT SUPPORT<br><img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="45" height="2"></td>
-<td align="center">ANIMATION<br><img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="50" height="2"></td>
+<td align="center"><sub>DATA ANALYST</sub><br><img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="50" height="2"></td>
+<td align="center"><sub>IT SUPPORT</sub><br><img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="40" height="2"></td>
+<td align="center"><sub>ANIMATION</sub><br><img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="40" height="2"></td>
 </tr>
 </table>
 
 </td>
 <td width="58%" valign="top">
 
-<h3>MAIN TASK / CURRENTLY WORKING ON ━━━━━━</h3>
+<h3>MAIN TASK / CURRENTLY WORKING ON ━━━</h3>
 
 <sub>SKILL</sub>
 <h1>DATA ANALYST</h1>
-
-<img src="https://img.shields.io/badge/-%20-FFFFFF?style=flat-square" width="190" height="1">
 
 **STUDYING SQL** &nbsp; <img src="https://img.shields.io/badge/SQL_TRACKER_PROGRESS-D9692A?style=flat-square" alt="SQL tracker progress"><br>
 <sub>SKILL SET SQL</sub>
@@ -71,52 +69,13 @@
 `SQL Server` ┃ `DBeaver` ┃ `DataGrip`<br>
 `MySQL Workbench` ┃ `DuckDB`
 
-`▁▂▃▂▄▃▅▄▆▅▇▆█`
-
 <sub>WORKING PROGRESS</sub><br>
-<img src="https://geps.dev/progress/5?dangerColor=16A34A&warningColor=16A34A&successColor=16A34A" alt="working progress" width="100%">
+<img src="https://geps.dev/progress/5?dangerColor=16A34A&warningColor=16A34A&successColor=16A34A" alt="working progress">
 
 <h3 align="center">╱╱ LIST TASK ╱╱</h3>
 
 <table>
 <tr>
-<td align="center">SQL<br><img src="https://img.shields.io/badge/-%20-22A6F0?style=flat-square" width="30" height="2"></td>
-<td align="center">EXCEL<br><img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="30" height="2"></td>
-<td align="center">PANDAS<br><img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="30" height="2"></td>
-<td align="center">PYTHON<br><img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="30" height="2"></td>
-<td align="center">TABLEAU<br><img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="30" height="2"></td>
-<td align="center">POWER BI<br><img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="30" height="2"></td>
-</tr>
-</table>
-
-<sub>🔴 not started &nbsp;·&nbsp; 🔵 in progress &nbsp;·&nbsp; 🟢 done</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-╱ **LAST UPDATE REPOSITORY**
-
-<!--START_SECTION:recent-repos-->
-> 23 - SEP - 2026<br>
-> **PROJECT WRITING APP**
-
-> 23 - SEP - 2026<br>
-> **PROJECT WRITING APP**
-<!--END_SECTION:recent-repos-->
-
-</td>
-<td width="50%" valign="top">
-
-╱ **NOTICE**
-
-> 23 - SEP - 2026<br>
-> CURRENTLY STUDYING TO PASS JLPT N3
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+<td align="center"><sub>SQL</sub><br><img src="https://img.shields.io/badge/-%20-22A6F0?style=flat-square" width="24" height="2"></td>
+<td align="center"><sub>EXCEL</sub><br><img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="24" height="2"></td>
+<td align="center"><sub>PANDAS</sub><br><img
