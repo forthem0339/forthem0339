@@ -25,7 +25,8 @@ repos = api(f"https://api.github.com/users/{USER}/repos?sort=pushed&direction=de
 repos = [r for r in repos if not r["fork"] and not r["archived"] and r["name"].lower() != USER.lower()][:COUNT]
 
 if not repos:
-    raise SystemExit("Belum ada repo publik untuk ditampilkan, README tidak diubah.")
+           print("Belum ada repo publik untuk ditampilkan, README tidak diubah.")
+       raise SystemExit(0)
 
 rows = ["| ╱ **LAST UPDATE REPOSITORY** | ╱ **NOTICE** |", "| :-- | :-- |"]
 for i, r in enumerate(repos):
