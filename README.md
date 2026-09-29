@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
 <h1>🟠 Forthem0339</h1>
 
@@ -34,28 +34,22 @@
 
 <h3 align="center">▽▲ LANGUAGE ▽▲</h3>
 
-<table>
-<tr>
-<td align="center"><sub><b>INDONESIAN</b></sub><br><img src="https://flagcdn.com/w40/id.png" width="34" alt="ID"><br><code>▰▰▰▰▰</code><br><sub>LEVEL - NATIVE</sub></td>
-<td align="center"><sub><b>JAPANESE</b></sub><br><img src="https://flagcdn.com/w40/jp.png" width="34" alt="JP"><br><code>▰▰▱▱▱</code><br><sub>LEVEL - INTERMEDIATE</sub></td>
-<td align="center"><sub><b>ENGLISH</b></sub><br><img src="https://flagcdn.com/w40/gb.png" width="34" alt="GB"><br><code>▰▰▰▱▱</code><br><sub>LEVEL - INTERMEDIATE</sub></td>
-</tr>
-</table>
+| <sub>INDONESIAN</sub> | <sub>JAPANESE</sub> | <sub>ENGLISH</sub> |
+| :-: | :-: | :-: |
+| <img src="https://flagcdn.com/w40/id.png" width="30" alt="ID"> | <img src="https://flagcdn.com/w40/jp.png" width="30" alt="JP"> | <img src="https://flagcdn.com/w40/gb.png" width="30" alt="GB"> |
+| `▰▰▰▰▰` | `▰▰▱▱▱` | `▰▰▰▱▱` |
+| <sub>LEVEL - NATIVE</sub> | <sub>LEVEL - INTERMEDIATE</sub> | <sub>LEVEL - INTERMEDIATE</sub> |
 
 🟠 **now learning**
 
 <img src="https://img.shields.io/badge/-%20-D9692A?style=flat-square" width="100%" height="2">
 
-<table>
-<tr>
-<td align="center"><sub>DATA ANALYST</sub><br><img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="50" height="2"></td>
-<td align="center"><sub>IT SUPPORT</sub><br><img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="40" height="2"></td>
-<td align="center"><sub>ANIMATION</sub><br><img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="40" height="2"></td>
-</tr>
-</table>
+| <sub>DATA ANALYST</sub> | <sub>IT SUPPORT</sub> | <sub>ANIMATION</sub> |
+| :-: | :-: | :-: |
+| <img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="45" height="2"> | <img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="40" height="2"> | <img src="https://img.shields.io/badge/-%20-1E9BE0?style=flat-square" width="40" height="2"> |
 
 </td>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
 <h3>MAIN TASK / CURRENTLY WORKING ON ━━━</h3>
 
@@ -74,8 +68,21 @@
 
 <h3 align="center">╱╱ LIST TASK ╱╱</h3>
 
-<table>
-<tr>
-<td align="center"><sub>SQL</sub><br><img src="https://img.shields.io/badge/-%20-22A6F0?style=flat-square" width="24" height="2"></td>
-<td align="center"><sub>EXCEL</sub><br><img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="24" height="2"></td>
-<td align="center"><sub>PANDAS</sub><br><img
+| <sub>SQL</sub> | <sub>EXCEL</sub> | <sub>PANDAS</sub> | <sub>PYTHON</sub> | <sub>TABLEAU</sub> | <sub>POWER BI</sub> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <img src="https://img.shields.io/badge/-%20-22A6F0?style=flat-square" width="22" height="2"> | <img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="22" height="2"> | <img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="22" height="2"> | <img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="22" height="2"> | <img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="22" height="2"> | <img src="https://img.shields.io/badge/-%20-EF3B2D?style=flat-square" width="22" height="2"> |
+
+<sub>🔴 not started &nbsp;·&nbsp; 🔵 in progress &nbsp;·&nbsp; 🟢 done</sub>
+
+<!--START_SECTION:recent-repos-->
+
+| ╱ **LAST UPDATE REPOSITORY** | ╱ **NOTICE** |
+| :-- | :-- |
+| <sub>23 - SEP - 2026</sub><br>**PROJECT WRITING APP** | <sub>23 - SEP - 2026</sub><br><sub>CURRENTLY STUDYING TO PASS JLPT N3</sub> |
+| <sub>23 - SEP - 2026</sub><br>**PROJECT WRITING APP** | |
+
+<!--END_SECTION:recent-repos-->
+
+</td>
+</tr>
+</table>
