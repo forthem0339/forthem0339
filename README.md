@@ -6,8 +6,7 @@
 
 2D Illustrator, Animator, Generalist &nbsp; <img src="https://img.shields.io/badge/PROFILE-D9692A?style=flat-square" alt="profile">
 
-<img src="https://img.shields.io/badge/-%20-D9692A?style=flat-square" width="32" height="10">
-
+> <img src="https://img.shields.io/badge/-%20-D9692A?style=flat-square" width="32" height="8"><br>
 > **About me**<br>
 > Hi everyone! I use this account to post my fun projects. I'm a Japanese Literature student with experience in many different things. I enjoy drawing, animation, 3D, and video editing, and right now I'm focusing on becoming a data analyst without any coding background.
 
@@ -18,19 +17,19 @@
 <h3 align="center">━━ SKILL SET ━━</h3>
 
 **2D illustration, Graphic Design** ┃ <img src="https://img.shields.io/badge/CSP-2B2B2B?style=flat-square" alt="Clip Studio"> <img src="https://img.shields.io/badge/-Ps-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop"><br>
-<img src="https://geps.dev/progress/60?dangerColor=E5E7EB&warningColor=E5E7EB&successColor=E5E7EB" alt="60"> <img src="https://img.shields.io/badge/-60-1E9BE0?style=flat-square" alt="60">
-
+<img src="https://img.shields.io/badge/-%20-E5E7EB?style=flat-square" width="120" height="8"><img src="https://img.shields.io/badge/-%20-2A2F3F?style=flat-square" width="80" height="8"> &nbsp;<img src="https://img.shields.io/badge/-60-1E9BE0?style=flat-square" alt="60"><br>
+<br>
 **2D Animation** ┃ <img src="https://img.shields.io/badge/CSP-2B2B2B?style=flat-square" alt="Clip Studio"><br>
-<img src="https://geps.dev/progress/46?dangerColor=E5E7EB&warningColor=E5E7EB&successColor=E5E7EB" alt="46"> <img src="https://img.shields.io/badge/-46-1E9BE0?style=flat-square" alt="46">
-
+<img src="https://img.shields.io/badge/-%20-E5E7EB?style=flat-square" width="92" height="8"><img src="https://img.shields.io/badge/-%20-2A2F3F?style=flat-square" width="108" height="8"> &nbsp;<img src="https://img.shields.io/badge/-46-1E9BE0?style=flat-square" alt="46"><br>
+<br>
 **Video editing, mograph** ┃ <img src="https://img.shields.io/badge/-Ae-00005B?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects"> <img src="https://img.shields.io/badge/-CapCut-000000?style=flat-square&logo=capcut&logoColor=white" alt="CapCut"> <img src="https://img.shields.io/badge/-DaVinci-233A51?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"><br>
-<img src="https://geps.dev/progress/40?dangerColor=E5E7EB&warningColor=E5E7EB&successColor=E5E7EB" alt="40"> <img src="https://img.shields.io/badge/-40-1E9BE0?style=flat-square" alt="40">
-
+<img src="https://img.shields.io/badge/-%20-E5E7EB?style=flat-square" width="80" height="8"><img src="https://img.shields.io/badge/-%20-2A2F3F?style=flat-square" width="120" height="8"> &nbsp;<img src="https://img.shields.io/badge/-40-1E9BE0?style=flat-square" alt="40"><br>
+<br>
 **IT Support** ┃<br>
-<img src="https://geps.dev/progress/17?dangerColor=E5E7EB&warningColor=E5E7EB&successColor=E5E7EB" alt="17"> <img src="https://img.shields.io/badge/-17-1E9BE0?style=flat-square" alt="17">
-
+<img src="https://img.shields.io/badge/-%20-E5E7EB?style=flat-square" width="34" height="8"><img src="https://img.shields.io/badge/-%20-2A2F3F?style=flat-square" width="166" height="8"> &nbsp;<img src="https://img.shields.io/badge/-17-1E9BE0?style=flat-square" alt="17"><br>
+<br>
 **Data Analyst** ┃ <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"><br>
-<img src="https://geps.dev/progress/5?dangerColor=E5E7EB&warningColor=E5E7EB&successColor=E5E7EB" alt="5"> <img src="https://img.shields.io/badge/-5-1E9BE0?style=flat-square" alt="5">
+<img src="https://img.shields.io/badge/-%20-E5E7EB?style=flat-square" width="10" height="8"><img src="https://img.shields.io/badge/-%20-2A2F3F?style=flat-square" width="190" height="8"> &nbsp;<img src="https://img.shields.io/badge/-5-1E9BE0?style=flat-square" alt="5">
 
 <h3 align="center">▽▲ LANGUAGE ▽▲</h3>
 
@@ -54,7 +53,7 @@
 <h3>MAIN TASK / CURRENTLY WORKING ON ━━━</h3>
 
 <sub>SKILL</sub>
-<h1>DATA ANALYST</h1>
+<h2>DATA ANALYST</h2>
 
 **STUDYING SQL** &nbsp; <img src="https://img.shields.io/badge/SQL_TRACKER_PROGRESS-D9692A?style=flat-square" alt="SQL tracker progress"><br>
 <sub>SKILL SET SQL</sub>
@@ -64,7 +63,7 @@
 `MySQL Workbench` ┃ `DuckDB`
 
 <sub>WORKING PROGRESS</sub><br>
-<img src="https://geps.dev/progress/5?dangerColor=16A34A&warningColor=16A34A&successColor=16A34A" alt="working progress">
+<img src="https://img.shields.io/badge/-%20-16A34A?style=flat-square" width="15" height="10"><img src="https://img.shields.io/badge/-%20-2A2F3F?style=flat-square" width="285" height="10"> &nbsp;<img src="https://img.shields.io/badge/-5%25-16A34A?style=flat-square" alt="5%">
 
 <h3 align="center">╱╱ LIST TASK ╱╱</h3>
 
