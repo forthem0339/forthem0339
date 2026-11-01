@@ -77,7 +77,7 @@
 
 | ╱ **LAST UPDATE REPOSITORY** | ╱ **NOTICE** |
 | :-- | :-- |
-| <sub>31 - OCT - 2026</sub><br>**[ANKI-ATTACK-](https://github.com/forthem0339/Anki-Attack-)** | <sub>23 - SEP - 2026</sub><br><sub>CURRENTLY STUDYING TO PASS JLPT N3</sub> |
+| <sub>31 - OCT - 2026</sub><br>**[ANKI-ATTACK](https://github.com/forthem0339/Anki-Attack)** | <sub>23 - SEP - 2026</sub><br><sub>CURRENTLY STUDYING TO PASS JLPT N3</sub> |
 
 <!--END_SECTION:recent-repos-->
 
